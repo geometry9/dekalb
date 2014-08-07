@@ -3,7 +3,7 @@ require_once 'inc/securimage/securimage.php';
 
 /////////////////////////////////////
 // Change this email address ////////
-$email = "CHANGE_THIS_ADDRESS@gmail.com";
+$email = "contact@dekalbrestaurant.com";
 
 /////////////////////////////////////
 
